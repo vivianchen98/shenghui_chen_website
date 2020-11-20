@@ -10,4 +10,4 @@ Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
 
-Deployed using Github Pages
+Hosted on Github Pages
