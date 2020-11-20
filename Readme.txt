@@ -1,7 +1,9 @@
-Personal Website for Shenghui (Vivian) Chen, with my introduction, resume, publication, projects, some writings, and activities.
+#Personal Website for Shenghui (Vivian) Chen
+
+with my introduction, resume, publication, projects, some writings, and activities.
 Access here: shenghui-chen.com
 
-Acknowledgement
+**Acknowledgement**
 
 Template Name: iPortfolio
 Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
